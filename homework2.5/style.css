@@ -1,0 +1,19 @@
+table{
+    border-collapse: collapse;
+    border: 1px solid #aaa69d;
+    
+}
+td,th{
+    border: 1px dashed #aaa69d;
+    padding: 13px 13px 13px 13px;
+    
+}
+.color{
+    background-color: #e8d889;
+}
+td{
+    color: dimgray;
+}
+th{
+    color: 450101;
+}
